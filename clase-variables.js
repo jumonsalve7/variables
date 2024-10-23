@@ -1,7 +1,7 @@
 
 
 let string1 = "Hola mundo"
-let string2 = "te quiero  mucho"
+let string2 = "Estamos aprendiendo Javascript"
 let string3 = string1 + " " + string2
 let string4 = `${string1} feliz :)`
 
